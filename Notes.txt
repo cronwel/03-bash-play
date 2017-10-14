@@ -1,0 +1,36 @@
+chmod
+
+uname
+-a
+-s-Linux
+-n-mu
+-r-4.10.0-37-generic
+
+file *
+
+example
+7   6   52    Notes.txt
+7  = Lines
+6  = words
+52 = characters
+
+-l
+-w
+-c
+
+
+sort
+
+
+cat > planets   -creates list
+
+ctrl D          -ends list
+cat >> planets  -adds rows to list
+cat planets     -displays
+
+
+cut -d "-" -f 1,3 planets
+cut -d "-"      - removes hyphen in file
+-f              - determines file
+1,3             - columns in file
+planets         - file name

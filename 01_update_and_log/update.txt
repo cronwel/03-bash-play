@@ -1,0 +1,12 @@
+Ign:1 http://dl.google.com/linux/chrome/deb stable InRelease
+Hit:2 http://us.archive.ubuntu.com/ubuntu zesty InRelease
+Hit:3 http://packages.microsoft.com/repos/vscode stable InRelease
+Get:4 http://us.archive.ubuntu.com/ubuntu zesty-updates InRelease [89.2 kB]
+Ign:5 http://dl.google.com/linux/webdesigner/deb stable InRelease
+Hit:6 http://dl.google.com/linux/chrome/deb stable Release
+Hit:7 https://dl.yarnpkg.com/debian stable InRelease
+Hit:8 http://archive.canonical.com/ubuntu zesty InRelease
+Get:9 http://security.ubuntu.com/ubuntu zesty-security InRelease [89.2 kB]
+Hit:10 http://dl.google.com/linux/webdesigner/deb stable Release
+Fetched 178 kB in 0s (204 kB/s)
+Reading package lists...
